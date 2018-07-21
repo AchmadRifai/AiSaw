@@ -1,0 +1,8 @@
+[
+	{"cb":"COST","nama":"Harga","kep":0.2},
+	{"cb":"BENEFIT","nama":"Kualitas","kep":0.25},
+	{"cb":"BENEFIT","nama":"Fitur","kep":0.2},
+	{"cb":"BENEFIT","nama":"Populer","kep":0.125},
+	{"cb":"BENEFIT","nama":"Purna Jual","kep":0.125},
+	{"cb":"BENEFIT","nama":"Keawetan","kep":0.1}
+]
